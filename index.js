@@ -1,5 +1,4 @@
 "use strict";
-// module.exports = dotpath
 Object.defineProperty(exports, "__esModule", { value: true });
 function dotpath(str) {
     const parts = str.split('.');

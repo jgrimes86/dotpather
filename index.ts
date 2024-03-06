@@ -1,4 +1,3 @@
-// module.exports = dotpath
 
 export default function dotpath (str: string) {
   const parts = str.split('.')
